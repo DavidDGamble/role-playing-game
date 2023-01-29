@@ -26,7 +26,10 @@ _This website is a simple turn based role playing game where 1 person can choose
 
 ## Setup/Installation Requirements
 
-* _clone the repository to your desktop from Github https://github.com/DavidDGamble/role-playing-game.git_
+* _clone the repository to your desktop from Github_ 
+```
+https://github.com/DavidDGamble/role-playing-game.git
+```
 * _run the following commands in the terminal in the root repository role-playing-game_
 ```
 npm i
