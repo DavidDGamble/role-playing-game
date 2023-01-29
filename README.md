@@ -26,12 +26,19 @@ _This website is a simple turn based role playing game where 1 person can choose
 
 ## Setup/Installation Requirements
 
-* _clone the repository to your desktop from: https://github.com/DavidDGamble/currency-exchanger.git_
-* _enter command in terminal: $ npm install_
-* _enter command in terminal: $ npm run build_
-* _enter command in terminal: $ npm run start_
+* _clone the repository to your desktop from Github https://github.com/DavidDGamble/role-playing-game.git_
+* _run the following commands in the terminal in the root repository role-playing-game_
+```
+npm i
+```
+```
+npm run build
+```
+```
+npm run start
+```
 
-* _go to https://daviddgamble.github.io/role-playing-game/ to play directly_
+* _Alternativly, go to https://daviddgamble.github.io/role-playing-game/ to play online_
 
 ## Known Bugs
 
